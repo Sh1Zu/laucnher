@@ -1,0 +1,8 @@
+{
+    "version":  "0.4.1",
+    "notes":  "Первый публичный выпуск: выбор персонажа, вход через Mojang, автообновление",
+    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.4.1/TheVaultRPLauncher-Setup-0.4.1.exe",
+    "sha256":  "151d7ccbe0a1c225af5605041717ba25bab1c820ed0ff5e9eef6a4607dd7427f",
+    "size":  63461123,
+    "mandatory":  false
+}
