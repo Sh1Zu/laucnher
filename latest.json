@@ -1,8 +1,8 @@
 {
-    "version":  "0.4.1",
-    "notes":  "Первый публичный выпуск: выбор персонажа, вход через Mojang, автообновление",
-    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.4.1/TheVaultRPLauncher-Setup-0.4.1.exe",
-    "sha256":  "151d7ccbe0a1c225af5605041717ba25bab1c820ed0ff5e9eef6a4607dd7427f",
-    "size":  63461123,
+    "version":  "0.5.1",
+    "notes":  "Sodium и Lithium теперь ставятся по кнопке, звуки мира внутри лаунчера, переход на дельта-обновления",
+    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.1/TheVaultRPLauncher-Setup-0.5.1.exe",
+    "sha256":  "a8ba9c1e0681282577fc13b7801eae4abc4de9d8fce086b410ac12b796405149",
+    "size":  159816308,
     "mandatory":  false
 }
