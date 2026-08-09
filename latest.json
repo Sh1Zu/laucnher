@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.1",
-    "notes":  "Sodium и Lithium теперь ставятся по кнопке, звуки мира внутри лаунчера, переход на дельта-обновления",
-    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.1/TheVaultRPLauncher-Setup-0.5.1.exe",
-    "sha256":  "a8ba9c1e0681282577fc13b7801eae4abc4de9d8fce086b410ac12b796405149",
-    "size":  159816308,
+    "version":  "0.5.2",
+    "notes":  "Проверка обновлений при нажатии Играть, журнал ошибок в файл, настоящий текст ошибки вместо общей фразы",
+    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.2/TheVaultRPLauncher-Setup-0.5.2.exe",
+    "sha256":  "c8e85ea8a0eff70efdf0e63c027e65c199a9e530ac8b1dda08898e9bc49295c1",
+    "size":  159817390,
     "mandatory":  false
 }
