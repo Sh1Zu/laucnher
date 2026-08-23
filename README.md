@@ -20,7 +20,7 @@ Get-FileHash TheVaultRPLauncher-Setup-0.4.1.exe -Algorithm SHA256
 
 | Версия | SHA-256 |
 |---|---|
-| 0.5.2| `151d7ccbe0a1c225af5605041717ba25bab1c820ed0ff5e9eef6a4607dd7427f` |
+| 0.5.3| `151d7ccbe0a1c225af5605041717ba25bab1c820ed0ff5e9eef6a4607dd7427f` |
 
 Если сумма не совпала — файл скачан не отсюда либо повреждён. Не запускайте его.
 
