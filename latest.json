@@ -1,5 +1,5 @@
 {
-    "version":  "0.5.2",
+    "version":  "0.5.4",
     "notes":  "Проверка обновлений при нажатии Играть, журнал ошибок в файл, настоящий текст ошибки вместо общей фразы",
     "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.2/TheVaultRPLauncher-Setup-0.5.2.exe",
     "sha256":  "c8e85ea8a0eff70efdf0e63c027e65c199a9e530ac8b1dda08898e9bc49295c1",
