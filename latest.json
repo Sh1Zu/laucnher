@@ -1,5 +1,5 @@
 {
-    "version": "0.5.4",
+    "version": "v0.5.5",
     "notes": "Вход на сервер в один шаг и сервер в списке «Сетевой игры», ресурс-пак больше не спрашивает разрешения, моды и шейдеры двумя вкладками, игра перестала открываться свёрнутой",
     "url": "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.4/TheVaultRPLauncher-win-Setup.exe",
     "sha256": "c32aa2fea9c9c6b31873976d66b1f1fa9061774ef81b831307e2dec8734f6ff1",
