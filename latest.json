@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.6",
-    "notes":  "Настройки за шестерёнкой и ползунок памяти до 8 ГБ, старые версии модов убираются сами, ключ входа не виден в списке процессов, каталог модов обновляется без переустановки",
-    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.6/TheVaultRPLauncher-win-Setup.exe",
-    "sha256":  "cf041eada2b75c8b7c961af3a3a9022d157b573973520caf7b306d6d6003d8ab",
-    "size":  160187899,
+    "version":  "0.5.7",
+    "notes":  "Новости стали блогом с иконками, карточки новостей больше не пустые, кнопка VaultChat пишет «в разработке»",
+    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.7/TheVaultRPLauncher-win-Setup.exe",
+    "sha256":  "fa3ea3d1371ddaba12ea27bea219a4ce900850bd878861ebd5df722c69baca5a",
+    "size":  160195869,
     "mandatory":  false
 }
