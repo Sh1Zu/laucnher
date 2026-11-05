@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.8",
-    "notes":  "Первый запуск — один экран: придумай ник и нажми «Начать», остальное лаунчер сделает сам",
-    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.8/TheVaultRPLauncher-win-Setup.exe",
-    "sha256":  "e6835139a844e3ae41ebd8c7c5fbd77f8235b571c2a979be4139594aece39613",
-    "size":  160198231,
+    "version":  "0.5.9",
+    "notes":  "Название проекта везде пишется слитно — TheVaultRP",
+    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.9/TheVaultRPLauncher-win-Setup.exe",
+    "sha256":  "cf450da3d24fd3820b17be2d777c9a8ec9e28aac0dbb12995045d4c119aa0daa",
+    "size":  160198177,
     "mandatory":  false
 }
