@@ -15,12 +15,12 @@
 Установщик пока не подписан сертификатом, поэтому Windows SmartScreen при первом запуске покажет предупреждение — это ожидаемо. Чтобы убедиться, что файл не подменён, сверьте его контрольную сумму:
 
 ```powershell
-Get-FileHash TheVaultRPLauncher-Setup-0.5.3.exe -Algorithm SHA256
+Get-FileHash TheVaultRPLauncher-win-Setup.exe -Algorithm SHA256
 ```
 
 | Версия | SHA-256 |
 |---|---|
-| v0.5.5| `151d7ccbe0a1c225af5605041717ba25bab1c820ed0ff5e9eef6a4607dd7427f` |
+| v0.5.6 | `cf041eada2b75c8b7c961af3a3a9022d157b573973520caf7b306d6d6003d8ab` |
 
 Если сумма не совпала — файл скачан не отсюда либо повреждён. Не запускайте его.
 

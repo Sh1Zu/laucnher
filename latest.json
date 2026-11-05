@@ -1,8 +1,8 @@
 {
-    "version": "v0.5.5",
-    "notes": "Вход на сервер в один шаг и сервер в списке «Сетевой игры», ресурс-пак больше не спрашивает разрешения, моды и шейдеры двумя вкладками, игра перестала открываться свёрнутой",
-    "url": "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.4/TheVaultRPLauncher-win-Setup.exe",
-    "sha256": "c32aa2fea9c9c6b31873976d66b1f1fa9061774ef81b831307e2dec8734f6ff1",
-    "size": 160175111,
-    "mandatory": false
+    "version":  "0.5.6",
+    "notes":  "Настройки за шестерёнкой и ползунок памяти до 8 ГБ, старые версии модов убираются сами, ключ входа не виден в списке процессов, каталог модов обновляется без переустановки",
+    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.6/TheVaultRPLauncher-win-Setup.exe",
+    "sha256":  "cf041eada2b75c8b7c961af3a3a9022d157b573973520caf7b306d6d6003d8ab",
+    "size":  160187899,
+    "mandatory":  false
 }

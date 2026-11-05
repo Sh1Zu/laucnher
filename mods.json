@@ -1,0 +1,16 @@
+{
+  "mods": [
+    {
+      "slug": "vaultchat",
+      "name": "VaultChat",
+      "group": "visual",
+      "required": false,
+      "reason": "Улучшенный вид чата: вкладки каналов, подложки, цветные полосы. Только отображение, необязательный",
+      "source": "url",
+      "url": "",
+      "sha256": "",
+      "available": false,
+      "badge": "В разработке"
+    }
+  ]
+}
