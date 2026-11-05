@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.7",
-    "notes":  "Новости стали блогом с иконками, карточки новостей больше не пустые, кнопка VaultChat пишет «в разработке»",
-    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.7/TheVaultRPLauncher-win-Setup.exe",
-    "sha256":  "fa3ea3d1371ddaba12ea27bea219a4ce900850bd878861ebd5df722c69baca5a",
-    "size":  160195869,
+    "version":  "0.5.8",
+    "notes":  "Первый запуск — один экран: придумай ник и нажми «Начать», остальное лаунчер сделает сам",
+    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.8/TheVaultRPLauncher-win-Setup.exe",
+    "sha256":  "e6835139a844e3ae41ebd8c7c5fbd77f8235b571c2a979be4139594aece39613",
+    "size":  160198231,
     "mandatory":  false
 }
