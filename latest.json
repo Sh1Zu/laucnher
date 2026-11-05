@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.9",
-    "notes":  "Название проекта везде пишется слитно — TheVaultRP",
-    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.9/TheVaultRPLauncher-win-Setup.exe",
-    "sha256":  "cf450da3d24fd3820b17be2d777c9a8ec9e28aac0dbb12995045d4c119aa0daa",
-    "size":  160198177,
+    "version":  "0.5.10",
+    "notes":  "Анимации игрока ставятся сами, обязательные моды тянут библиотеки, ставятся только релизные версии модов, Not Enough Animations закреплён на рабочей версии",
+    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.10/TheVaultRPLauncher-win-Setup.exe",
+    "sha256":  "e577077e5afea7536260e46f5874ab9f2f4789d1f4ba5dd8b8a0294b45ca5aa0",
+    "size":  160198257,
     "mandatory":  false
 }
