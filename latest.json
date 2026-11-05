@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.11",
-    "notes":  "Автоматически ставятся только Fabric API и Plasmo Voice, моды анимаций — по кнопке, Not Enough Animations закреплён на рабочей версии",
-    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.11/TheVaultRPLauncher-win-Setup.exe",
-    "sha256":  "50a0785a0b3d207a34f6b4718536e53d44e6471ae222e46fe1b0e1534214ba8f",
-    "size":  160198311,
+    "version":  "0.5.12",
+    "notes":  "Исправлен чёрный экран при запуске: сломанный мод First-person Model убран, моды анимаций проверены по отдельности",
+    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.12/TheVaultRPLauncher-win-Setup.exe",
+    "sha256":  "560afdc13987b7c41d4210621a6148f36a1d2965292444cd7698416dd4f830bf",
+    "size":  160198499,
     "mandatory":  false
 }
