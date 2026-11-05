@@ -11,6 +11,11 @@
       "sha256": "",
       "available": false,
       "badge": "В разработке"
+    },
+    {
+      "slug": "first-person-model",
+      "available": false,
+      "badge": "Не работает"
     }
   ]
 }
