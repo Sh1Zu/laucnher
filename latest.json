@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.12",
-    "notes":  "Исправлен чёрный экран при запуске: сломанный мод First-person Model убран, моды анимаций проверены по отдельности",
-    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.12/TheVaultRPLauncher-win-Setup.exe",
-    "sha256":  "560afdc13987b7c41d4210621a6148f36a1d2965292444cd7698416dd4f830bf",
-    "size":  160198499,
+    "version":  "0.5.13",
+    "notes":  "Стабильный запуск по кнопке «Играть», выбор памяти прямо в карточке игры, автонастройка интерфейса 2 и русского языка, флаги G1",
+    "url":  "https://github.com/Sh1Zu/laucnher/releases/download/v0.5.13/TheVaultRPLauncher-win-Setup.exe",
+    "sha256":  "de04fac6b52007370a0639208d30a647e8542b2c4d7354e6e1112de37a5284e1",
+    "size":  160204320,
     "mandatory":  false
 }
